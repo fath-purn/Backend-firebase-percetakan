@@ -1,0 +1,20 @@
+{
+  "type": "service_account",
+  "project_id": "javaindo-percetakan",
+  "private_key_id": "1e47371d6e7bd3224bebfe0abfe6b1ba69b317ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCorDa4xpUL3oBS\neDvNBU8wpVMhPrznabxEi3Fu8m0iVWTRuloDo3Tr0dSxp7jlVOkI59pdXK0aY4vU\nCVdXCmGWS9DjMCGDjpHNOTRHZl/XP0KV8wQjmT1v/s6/wfVoM7b5CsXs3DCjc6yH\nNtf9lM0PDeSYIDPdKjK2Im6denmqpbYWR+8f6JXp7SJ9hmvjcstO2OnHg6llQpdH\n5yVv+EP57YECaD+K+eplQzh9hX8FobVanL87bhDeB4gNPtWeyofF/19zb6I8lPgn\nTNWm3u6yP7jLTUnMxpqacZpGUL9XfSa1mEM2YX56zxWmGoMDhYhlAiwkweeP35b8\nH6QB5fLFAgMBAAECggEAGqz/y4nGhTXHhCN1S7ew/j/LTajzLcMcbhfClRocle88\n7mljNouZoHkTQxSESqq63zhx4c2YJ+IB+YMPr9mZtPAhJWkVh82atAL9yGQBuNRN\nptLj/vBLleSN1KhrdDMnlyvzwQHS5GrVKJ5NGxL3OlAHbOK86Re1JPZ9mYTG7Kye\nDq+uQeJvg7khTrpJ5B1gdXqZfL23lu4F0ZqJ6xE+aQ3LBeSK5vR3Ba0CaPVKmHPw\nzWwBkMORETVoanpjOTRZO6wXXHC7dRgk694b05dtke3VeFg/bO+Ro3u0M6x3CZ6d\nJltxZQV5J3qBprbFvRNKc0PrCIXiE5x5GsuuIGeRKQKBgQDidZrXVRPOTA2KSnxf\nBF424PAEjRtuWEKwlxrB1M/l6eUhSLUWjVoaKxN4G/NjuJRRee0qKWaco1DINoQ/\nJ5qb7e9IF3D9ZkDd6M9wDQ9WuncVMYaXKzb9JpIBSOewRtZksms/iMmS5pMCFX3k\nwApkXAOJBCKNSXEJAyzHKSfmiQKBgQC+rOC3J8zMWuE0lD19SRtlGm54D+OGzjMK\naJgWlE5MtEOssHqyZeampihp6qO7+yrvsk5BfPkTv3Qga9eZGZT91KJPIQ9yrw3w\nKzxztIqZT7VwISituUpxgWZrVJgWPoUiv0UA2dbGbTZZZWo6H/aGRKvDrRacGsM6\n6K73frDbXQKBgQC4VmjzbXKQ1AGVl2pD4gda/qEB42b33Gp02ptSOov8p/b2r/uQ\nXwGAGZ5gf8gQXXiGFgzC7C51xM8GGrJtwiwtT3Ieqc40xt54hIEOweLBg0lZ/BWF\nygyZ5qKk3xaRvCfakg2RCySiKoRyBtKSuOv8o5XRG4eQoL6dSnNRryOmmQKBgH5I\np0gG3xfVdORK7fKlUbSDbfispUeqF5nkLh5+OOGKXmvoMksnPDzRPWDw22Jr9kLs\nd/HdoGWY3oN+iTtH+yqmAp2fyshs8jFHoXEMeOMTLJrIC1YLqydDyZ56V4QcAjdC\nMKRgomOm/2DzzwgSFUdWAeDGKXxYKUdBxmf6i42tAoGAQRE7gRXWaFhqaF+XwjrM\nGp0i5xDK4DOZij+pkkDKMzZxeRnYhTA9IlChcHGiPUeCdETV9vzpjmITLbkDGXhZ\nccmrSzRH72SalWI1jYNVcHpA2OGFaOfJbndmO1KyfSzDCW5LI4o9YrkDgKLoF8n4\naci3pnGDjbQEO2jPalKkZ/8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4mska@javaindo-percetakan.iam.gserviceaccount.com",
+  "client_id": "104465388958572477961",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4mska%40javaindo-percetakan.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "apiKey": "AIzaSyCVio_sA3K8BUdTmcFXHWKyaB9OHPWxRiQ",
+  "authDomain": "javaindo-percetakan.firebaseapp.com",
+  "projectId": "javaindo-percetakan",
+  "storageBucket": "javaindo-percetakan.appspot.com",
+  "messagingSenderId": "503397054055",
+  "appId": "1:503397054055:web:72326cc463b662c81006c2",
+  "measurementId": "G-1L1212J8JC"
+}
